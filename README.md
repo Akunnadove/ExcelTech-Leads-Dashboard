@@ -1,4 +1,4 @@
-# Leads-Dashboard-Report--ExcelTech
+# Leads Dashboard Report - ExcelTech
 Data Studio Dashboard development project for Leads data
 
 # Link to Dashboard on Data Studio
